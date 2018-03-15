@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Magician
+title:            잠못드는 백엔드 개발자
 tagline:          ''
 description:      '#평범한 개발자 #python #rust #kernel #reinforcement #backend'
 url:              https://github.com/elastic7327
