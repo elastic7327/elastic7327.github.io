@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            잠 못드는 개발자
 tagline:          ''
 description:      '#평범한 개발자 <a href="https://www.python.org/download/releases/3.0/" target="_blank">#python3</a> <a href="https://www.rust-lang.org/en-US/index.html" target="_blank">#rust</a> #kernel <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank">#reinforcement</a> #backend #blockchain #tdd #test'
-url:              https://github.com/elastic7327
+url:              "https://elastic7327.github.io/"
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -28,6 +28,7 @@ paginate:         5
                     # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
