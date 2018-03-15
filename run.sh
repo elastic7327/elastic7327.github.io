@@ -1,4 +1,5 @@
 #!/bin/sh
 
-jekyll build
+
+jekyll build --incremental
 jekyll serve
