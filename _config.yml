@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Backend journal 
+title:            Magician
 tagline:          ''
-description:      '#평범한 개발자. #python #rust #kernel #reinforcement'
+description:      '#평범한 개발자 #python #rust #kernel #reinforcement #backend'
 url:              https://github.com/elastic7327
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
