@@ -1,11 +1,9 @@
-
 ---
 comments: true
 layout: post
 title: Docker Swarm으로 손쉽게 마이크로 서비스를 만들어보자
 excerpt_separator:  <!--more-->
 ---
-
 
 
 # Docker  Swarm을 사용해서 Docker 오케스트레이션을 사용해보자
