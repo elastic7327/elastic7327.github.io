@@ -1,9 +1,6 @@
-# 2018 파이콘에서 설명할 러스트 설명
-
-
-
+## Pycon2018 rust and python 파이콘에서 발표할 내용들 간략하게 정리한것.. (수정중)
+ 
 ![image](https://user-images.githubusercontent.com/16227780/42924867-02b0ec24-8b67-11e8-9bcb-7f52891fd2d5.png)
-
 
 
 #### 들어가기전에
