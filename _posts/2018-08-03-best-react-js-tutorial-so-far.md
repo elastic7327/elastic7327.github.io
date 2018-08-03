@@ -1,7 +1,7 @@
 ---
 comments: true
 layout: post
-title: 에버노트에 있던 글들을.. 슬슬 이쪽으로
+title: 정말 괜찮은 리액트 및 자바스트립트 강의 링크
 excerpt_separator:  <!--more-->
 ---
 
